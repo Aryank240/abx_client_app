@@ -1,0 +1,11 @@
+{
+    "cmake.sourceDirectory": "C:/Users/DELL/Desktop/c++/json-develop/json-develop",
+    "C_Cpp.errorSquiggles": "enabled",
+    "cmake.buildDirectory": "${workspaceFolder}/build",
+    "cmake.generator": "Ninja",
+    "cmake.configureArgs": [
+        "-DCMAKE_BUILD_TYPE=Debug"
+    ],
+    "cmake.buildArgs": [],
+    "cmake.installPrefix": "${workspaceFolder}/install"
+}
